@@ -1,5 +1,5 @@
 <script>
-    import {HeaderSectionV1} from '$broker'
+	import { HeaderSectionV1 } from '$lib/broker';
 </script>
 
-<HeaderSectionV1/>
+<HeaderSectionV1 />

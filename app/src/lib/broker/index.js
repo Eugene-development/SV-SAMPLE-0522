@@ -1,6 +1,5 @@
-
-export { default as HeaderSectionV1 } from '$components/header/section_01/v_001/index.svelte'
-export { default as FooterSectionV1 } from '$components/footer/section_01/v_001/index.svelte'
+export { default as HeaderSectionV1 } from '$lib/components/header/section_01/v_001/index.svelte';
+export { default as FooterSectionV1 } from '$lib/components/footer/section_01/v_001/index.svelte';
 //
 // export { default as MainSectionV1 } from ''
 //
